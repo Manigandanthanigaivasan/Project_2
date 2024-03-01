@@ -345,6 +345,11 @@ nav a:hover{
     flex-direction: column;
     justify-content: center;
 }
+.div21 div:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.1),-5px -5px 5px 0px rgba(255,255,255,0.1);
+    transition: 0.5s;
+}
 .div21 div img{
     width: 121px;
     height: 121px;
